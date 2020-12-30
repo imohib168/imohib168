@@ -12,43 +12,52 @@ Hey My Name is Mohib Ismail, I'm a 1st year CS student at DHA Suffa University. 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
+<center>
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr>
+      <td width="50%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      <td width="50%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
+      </td>
+      <td width="50%" align="center">
+        <span>Material UI</span><br><br><br>
+        <img height="64px" src="https://material-ui.com/static/logo.png">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
 </table>
+</center>
 <hr>
 
 <h1 align="center">
