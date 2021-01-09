@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Mohib Ismail, I'm a 1st year CS student at DHA Suffa University. I am a Tech Enthusiast. I've so far learned HTML, CSS(Bootstrap, Material UI), JAVASCRIPT, PYTHON(Libraries: Numpy and Pandas) and currently learning React more Looking forward to learn new skills and add them in the list.
+Hey My Name is Mohib Ismail, I'm a 1st year CS student at DHA Suffa University. I am a Tech Enthusiast. I've so far worked with HTML, CSS(Bootstrap, Material UI), JAVASCRIPT, PYTHON(Libraries: Numpy and Pandas) and currently learning C-language and JS frontend Library(React). More looking forward to learn new skills and add them in the list.
 
 <hr/>
 
