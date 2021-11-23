@@ -6,59 +6,9 @@
 
 ## About Me
 
-Hey My Name is Mohib Ismail, I'm a 1st year CS student at DHA Suffa University. I am a Tech Enthusiast. I've so far worked with HTML, CSS(Bootstrap, Material UI), JAVASCRIPT, PYTHON(Libraries: Numpy and Pandas) and currently learning C-language and JS frontend Library(React). More looking forward to learn new skills and add them in the list.
+Hey My Name is Mohib Ismail, I'm an undergraduate Computer Science student. I am a Tech Enthusiast. I've so far worked with HTML, CSS(Bootstrap, Material UI, Tailwind & other CSS libraries/frameworks), JAVASCRIPT, PYTHON(Libraries: Numpy and Pandas), C, Java and mainly my expertise lies in front-end development. So, I've worked with JS frontend Library(React). More looking forward to learn new skills and add them in the list.
 
 <hr/>
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
-<center>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="50%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="50%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="50%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="50%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
-      </td>
-      <td width="50%" align="center">
-        <span>Material UI</span><br><br><br>
-        <img height="64px" src="https://material-ui.com/static/logo.png">
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="50%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-<hr>
 
 <h1 align="center">
 ✨ Where you can find me ✨
