@@ -27,8 +27,6 @@ Technologies I am familiar with:
 • Firebase | Firebase Auth
 • Jest | React Testing
 
-<hr/>
-
 <h1 align="center">
 ✨ Where you can find me ✨
 
@@ -49,16 +47,11 @@ Technologies I am familiar with:
 </h1>
 
 <div align = "center">
-
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=imohib168)
-
-<hr>
-
+<h3>Thanks for Stopping by!! 😊</h3>
 </div>
 
+<div align = "center">
 
-<h3>Thanks for Stopping by!! 😊</h3>
-
-
----
 ⭐️ From [Mohib Ismail](https://github.com/imohib168) 
+
+</div>
