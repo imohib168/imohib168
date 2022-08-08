@@ -1,12 +1,34 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Mohib](https://github.com/imohib168) !!
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
-</h2>
+I am Mohib. I am here to help your startup/company to build highly interactive and scalable web application.
 
-<hr/>
+If you want to bring your idea into reality and looking for someone to build an elegant web application? You're on the right place. With around 2 years of experience in building web applications I've helped clients to build highly responsive & decent applications following the coding standards and best practices.
 
-## About Me
+Technologies I can easily work with:
 
-Hey My Name is Mohib Ismail, I'm an undergraduate Computer Science student. I am a Tech Enthusiast. I've so far worked with HTML, CSS(Bootstrap, Material UI, Tailwind & other CSS libraries/frameworks), JAVASCRIPT, PYTHON(Libraries: Numpy and Pandas), C, Java and mainly my expertise lies in front-end development. So, I've worked with JS frontend Library(React). More looking forward to learn new skills and add them in the list.
+✅ HTML5 | CSS3
+✅ JavaScript/ES | TypeScript
+✅ React | Gatsby | Next
+✅ Redux | Redux Toolkit | Redux Saga | Recoil | Zustand | ContextAPI
+✅ GraphQL | Apollo | React Query
+✅ Web Sockets | Socket.io
+✅ SCSS | Styled Components | Material-UI | Ant Design | Bootstrap | Tailwind CSS
+✅ Contentful CMS
+✅ Yarn | NPM
+✅ Git | Github
+✅ API Integration
+
+
+Technologies I am familiar with:
+
+• NodeJS | ExpressJS
+• MongoDB
+• MySQL | Sequelize
+• Firebase | Firebase Auth
+• Jest | React Testing
+
+Want to discuss the project? I am just a message away [Contact here](mailto:imohib168@gmail.com)
+
 
 <hr/>
 
