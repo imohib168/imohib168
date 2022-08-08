@@ -27,9 +27,6 @@ Technologies I am familiar with:
 • Firebase | Firebase Auth
 • Jest | React Testing
 
-Want to discuss the project? I am just a message away [Contact here](mailto:imohib168@gmail.com)
-
-
 <hr/>
 
 <h1 align="center">
