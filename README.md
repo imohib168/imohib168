@@ -2,9 +2,15 @@
 
 I am Mohib. I am here to help your startup/company to build highly interactive and scalable web application.
 
-If you want to bring your idea into reality and looking for someone to build an elegant web application? You're on the right place. With around 2 years of experience in building web applications I've helped clients to build highly responsive & decent applications following the coding standards and best practices.
+Do you want to bring your idea into reality?
 
-Technologies I can easily work with:
+Looking for someone to build an elegant web application? 
+
+You're on the right place. 
+
+With around 2 years of experience in building web applications, I've helped clients to build highly responsive & top-notch wbe apps following the best coding architectures and practices.
+
+Tech stack in which I am fluent:
 
 ✅ HTML5 | CSS3
 ✅ JavaScript/ES | TypeScript
