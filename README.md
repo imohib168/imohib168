@@ -8,7 +8,7 @@ Looking for someone to build an elegant web application?
 
 You're on the right place. 
 
-With around 2 years of experience in building web applications, I've helped clients to build highly responsive & top-notch wbe apps following the best coding architectures and practices.
+With around 3 years of experience in building web applications, I've helped clients to build highly responsive & top-notch wbe apps following the best coding architectures and practices.
 
 Tech stack in which I am fluent:
 
